@@ -4,8 +4,8 @@
 class Fanyi < Formula
   desc "A translate tool in your command line"
   homepage ""
-  url "https://github.com/sakz/fanyi/releases/download/v0.0.3/fanyi_0.0.3_Darwin_x86_64.tar.gz"
-  sha256 "6e44c583934573e9bbb6cd1b6487eea96f75f24afd345d3c0a8542482cfb051c"
+  url "https://github.com/sakz/fanyi/releases/download/v0.0.4/fanyi_0.0.4_Darwin_x86_64.tar.gz"
+  sha256 "80f7e57c9923d3219eb670a4fd26ebe5baeb8659f75d347e8ba141c30d3944f4"
 
   def install
     bin.install "fanyi"
